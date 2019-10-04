@@ -57,3 +57,9 @@ i=0
 end
 
 
+
+def reduce_to_all(source_array)
+
+
+end
+
