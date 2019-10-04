@@ -78,5 +78,5 @@ while i<source_array.length
       end
     i+=1 
   end
-    return true
+    return false 
 end
