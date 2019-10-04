@@ -59,7 +59,13 @@ end
 
 
 def reduce_to_all(source_array)
-
-
+i=0 
+while i<source_array.length 
+    if !source_array[i]
+      return FALSE
+    end
+    i+=1 
+  end
+  return true
 end
 
